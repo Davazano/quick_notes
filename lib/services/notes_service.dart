@@ -1,4 +1,3 @@
-
 import 'package:quick_notes/models/note_for_listing.dart';
 
 class NotesService {
